@@ -9,7 +9,6 @@ package:
   version: {{ version }}
 
 source:
-  fn: {{ name }}-{{ version }}.{{ bundle }}
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.{{ bundle }}
   {{ hash_type }}: {{ hash }}
 
@@ -39,7 +38,6 @@ about:
   license_family: MIT
   summary: 'A Flask extension adding a decorator for JSONP support'
   dev_url: https://github.com/CoryDolphin/flask-jsonpify
-
 
 extra:
   recipe-maintainers:
