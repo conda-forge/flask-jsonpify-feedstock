@@ -16,9 +16,8 @@ Summary: A Flask extension adding a decorator for JSONP support
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/flask-jsonpify-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/flask-jsonpify-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/flask-jsonpify-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/flask-jsonpify-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/flask-jsonpify-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/flask-jsonpify-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/flask-jsonpify-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/flask-jsonpify-feedstock)
 
 Current release info
 ====================
