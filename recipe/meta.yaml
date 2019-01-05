@@ -30,7 +30,6 @@ requirements:
 
 test:
   imports:
-    - flask.ext.jsonpify
     - flask_jsonpify
 
 about:
@@ -45,3 +44,4 @@ about:
 extra:
   recipe-maintainers:
     - pmlandwehr
+    - mariusvniekerk
